@@ -5,6 +5,7 @@
 		"improved": 1
 	},
 	"map_phot": {
+        "gaiabprp": "Gaia's DR2 G, G_BP and G_RP (Vegamags)",
 		"2mass_spitzer": " 2MASS + Spitzer (IRAC+MIPS)",
 		"2mass_spitzer_wise": " 2MASS + Spitzer (IRAC+MIPS) + WISE",
 		"2mass": " 2MASS JHKs",
